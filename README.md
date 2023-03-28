@@ -17,7 +17,7 @@ Orders are then stored in a HashMap to store orders grouped by price <br />
 <br />
 Order matching would need to use the highest bid price at the top of the queue and the lowest offer price at the top <br />
 <br />
-To Complie <br />
+To Compile <br />
 mvn clean <br />
 mvn compile <br />
 <br />
